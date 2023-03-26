@@ -1,0 +1,57 @@
+Hello everyone!
+
+INTRODUCTION: 
+We are conducting a research regarding personality detection of individuals using NLP and transformer models. Through this we can pass any
+textual message in our model and it will predict your personality according to MBTI's 16 different sets of traits.
+
+DATA COLLECTION:
+We are focused on feeding our model with real time data of indiviuals rather than some random texts. For this we cordially ask you to contribute 
+to our project giving your textual data through our keylogger program. This keylogger program is a computer application (Python Based) which
+will record your key strokes of what you type and save it in a text file.
+
+
+PRIVACY CONCERNS:
+Any data that you provide to us is of utmost priority regarding security issues and safety. For a few I know it's a lot to ask but we can guarantee 
+you that we don't take any data unless you forward it to us. Because after starting the Keylogger app it will save the data in a text file that will be in 
+your local storage, from there you can open and check the text file of what you have written. If you dont want to include some specific part of the recorded
+textyou can easily delete that part and send us the rest. For your convenience you can also check the coding lines opening the program through an editor
+(if you are familiar with python) and see how the program is operating.
+
+
+WHAT TO DO?
+
+1) After recieveing the program "keylogger.py" copy it to your desired folder. For ease of use we would suggest that you keep it in Desktop Window.
+
+2) Then click "keylogger.py" and your application will be ON. You can see a black pop-up window where it will show you the typed keys. You can minimize
+   it and then start using your PC for daily use as you like. It will simply run in the background and monitor your keystrokes unless you close the
+   application.
+
+3) For closing the application simply press "F7" of your function keys and it will terminate.
+
+4) After that opening the folder where you kept "keylogger.py" you will see an automatic generated "your text.txt" file.
+
+5) Open "your text.txt" file and you can see the texts that you have typed.
+
+6) This text file will be generated only once and start saving texts automatically everytime you run "keylogger.py"
+
+7) We need this data over a month period of time and we will collect those in two phases : i) After 1 week
+                                                                                          ii) After 1 month
+
+8) So we request you to use the application everytime you are on your PC/Laptop and also when you find it suitable and oblige us thereby.
+
+9) Regarding collection of data all you need to do is email us your data ("your text.txt") file over the above mentioned two phase. (Don't worry we will
+   notify you)
+
+10) Last but not the least, your privacy is our concern too and being accountable we don't intend to use this data other than our research purpose.
+
+
+
+
+
+REQUIREMENTS:
+
+* You need to have Python installed on your system beforehand. Remember to check the 'Add to Path' option while installing python. Otherwise pip will not be recognised.
+
+* After that you need to install a package module named "pynput".
+ 
+* To do that simply open your command prompt window "cmd" and type - 'pip install pynput'     (Do not use the single quote mark in cmd while typing)
